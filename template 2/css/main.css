@@ -1,0 +1,14 @@
+body {
+	text-align:center;
+	background-color: #ffe6dd;
+}
+
+.headingTitle {
+	font-size:70px;
+	font-style: italic;
+	color: red;
+}
+
+.shoe {
+	margin:40px 0;
+}
